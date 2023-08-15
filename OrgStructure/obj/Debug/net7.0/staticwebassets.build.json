@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "rA2/cp9PglE3lQpgNCZVmXCJh6PVQUPLnmv1qxaQiI4=",
+  "Source": "OrgStructure",
+  "BasePath": "_content/OrgStructure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OrgStructure\\wwwroot",
+      "Source": "OrgStructure",
+      "ContentRoot": "C:\\Users\\Anton\\source\\repos\\OrgStructure\\OrgStructure\\wwwroot\\",
+      "BasePath": "_content/OrgStructure",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Anton\\source\\repos\\OrgStructure\\OrgStructure\\wwwroot\\index.html",
+      "SourceId": "OrgStructure",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Anton\\source\\repos\\OrgStructure\\OrgStructure\\wwwroot\\",
+      "BasePath": "_content/OrgStructure",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

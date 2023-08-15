@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Anton\\source\\repos\\OrgStructure\\OrgStructure\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.OrgStructure.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.OrgStructure.props",
+      "PackagePath": "build\\OrgStructure.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.OrgStructure.props",
+      "PackagePath": "buildMultiTargeting\\OrgStructure.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.OrgStructure.props",
+      "PackagePath": "buildTransitive\\OrgStructure.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
